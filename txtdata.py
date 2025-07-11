@@ -1,7 +1,6 @@
 import copy
 import helper
 
-
 class TxtData:
     '''
     Stores the data from a text
